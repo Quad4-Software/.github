@@ -10,7 +10,7 @@ rns.quad4.io:4242
 
 or check out the [LXMFY bot framework](https://github.com/lxmfy/LXMFy).
 
-# Developing Skiptrace OSINT Platform
+# Developing Skiptrace Intelligence Platform
 
 Skiptrace is a next-generation affordable OSINT platform with a few GIS elements, team collaboration features, and various other features to aid in ethical investigations, research and intelligence. Built for journalists, investigators and intel professionals.
 
