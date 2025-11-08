@@ -1,6 +1,6 @@
 # Quad4 Software
 
-We deliver privacy, security, and intelligence solutions designed to empower organizations and individuals. We are committed to supporting the open-source community through no strings attached contributions to important projects.
+We deliver privacy, security, and intelligence solutions designed to empower organizations and individuals. We support the open-source community through no strings attached donations to all projects we use.
 
 # Reticulum Network Solutions
 
